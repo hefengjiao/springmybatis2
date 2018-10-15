@@ -21,7 +21,7 @@ public class UserController {
 
     @GetMapping("/")
     public String index(Model model){
-        model.addAttribute("name","world");
+        model.addAttribute("name","china");
         return "home";
     }
 
