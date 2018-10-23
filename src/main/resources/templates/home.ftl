@@ -7,6 +7,6 @@
     <title>我的第一个Spring Boot 程序</title>
 </head>
 <body>
-hi ${name}
+mycountry , ${name}
 </body>
 </html>
